@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER chaitanyaphani456@gmail.com
+MAINTAINER jitu
 
 WORKDIR /opt
 RUN mkdir /opt/tomcat/
